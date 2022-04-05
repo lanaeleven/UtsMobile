@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CryptoCurrency App Vertical View</string>
+
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="dogecoin">Dogecoin</string>
+    <string name="bitcoinCash">BitcoinCash</string>
+    <string name="feathercoin">Feathercoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="shibaInu">Shiba Inu</string>
+    <string name="stellar">Stellar</string>
+    <string name="solana">Solana</string>
+    <string name="poligon">Poligon</string>
+
+    <string name="bitcoin_year">Dibuat pada tahun 2009</string>
+    <string name="litecoin_year">Dibuat pada tahun 2011</string>
+    <string name="dogecoin_year">Dibuat pada tahun 2013</string>
+    <string name="bitcoinCash_year">Dibuat pada tahun 2017</string>
+    <string name="feathercoin_year">Dibuat pada tahun 2013</string>
+    <string name="ethereum_year">Dibuat pada tahun 2015</string>
+    <string name="shibaInu_year">Dibuat pada tahun 2020</string>
+    <string name="stellar_year">Dibuat pada tahun 2014</string>
+    <string name="solana_year">Dibuat pada tahun 2019</string>
+    <string name="poligon_year">Dibuat pada tahun 2022</string>
+
+</resources>
